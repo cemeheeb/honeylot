@@ -6,6 +6,10 @@
     {
       "trait_type":"limit",
       "value":"500"
+    },
+    {
+      "trait_type":"expiration",
+      "value":"2028/01/01 00:00 UTC"
     }
   ]
 }

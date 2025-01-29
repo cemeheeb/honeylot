@@ -1,12 +1,12 @@
 {
   "name": "HONEY LOT",
-  "image": "https://github.com/cemeheeb/honeylot/blob/d6e1b0793ac437ff3c8133ca66612bb8e85035ec/assets/ticker.png",
-  "cover_image": "https://github.com/cemeheeb/honeylot/blob/d6e1b0793ac437ff3c8133ca66612bb8e85035ec/assets/cover.jpg",
-  "description": "Ton HONEY LOT ticket collection. Provide ability to swap $HONEY token to TON via honey_lot telegram mini app",
+  "image": "https://raw.githubusercontent.com/cemeheeb/honeylot/refs/heads/master/assets/ticker.png",
+  "cover_image": "https://raw.githubusercontent.com/cemeheeb/honeylot/refs/heads/master/assets/cover.jpg",
+  "description": "Ton HONEY LOT ticket collection. Provide ability to swap $HONEY token to TON via HONEY LOT telegram mini app",
   "marketplace": "getgems.io",
   "external_url": null,
   "social_links": [
-    "https://t.me/honeylot",
+    "https://t.me/tonhoneylot",
     "https://t.me/honeylot_bot",
     "https://honeylot.pro",
     "https://honeylot.pro/static/whitepapper.pdf"

@@ -1,7 +1,7 @@
 {
   "name":"HONEY LOT ticket",
   "description":"Allows to swap HONEY to TON on DeDust pool with a provided limitation. See collection description for instructions",
-  "image":"",
+  "image":"https://raw.githubusercontent.com/cemeheeb/honeylot/refs/heads/master/assets/10000.png",
   "attributes":[
     {
       "trait_type":"limit",

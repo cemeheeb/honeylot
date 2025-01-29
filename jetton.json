@@ -1,6 +1,6 @@
 {
     "name": "HONEY LOT",
-    "description": "Typical honeypot jetton, but with ability to sell with NFT. Read before buy https://honeylot.pro/static/whitepaper.pdf",
+    "description": "Typical honeypot jetton, but with ability to sell with special NFT. IMPORTANT! Read before buy https://honeylot.pro/static/whitepaper.pdf",
     "symbol": "HONEY",
-    "image": "https://github.com/cemeheeb/honeylot/blob/d6e1b0793ac437ff3c8133ca66612bb8e85035ec/assets/ticker.png"
+    "image": "https://raw.githubusercontent.com/cemeheeb/honeylot/refs/heads/master/assets/ticker.png"
   }
